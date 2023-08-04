@@ -1,0 +1,15 @@
+F:\Projects\C++\GENOM\GENOM\bin\Debug\net7.0\GENOM.exe
+F:\Projects\C++\GENOM\GENOM\bin\Debug\net7.0\GENOM.deps.json
+F:\Projects\C++\GENOM\GENOM\bin\Debug\net7.0\GENOM.runtimeconfig.json
+F:\Projects\C++\GENOM\GENOM\bin\Debug\net7.0\GENOM.dll
+F:\Projects\C++\GENOM\GENOM\bin\Debug\net7.0\GENOM.pdb
+F:\Projects\C++\GENOM\GENOM\obj\Debug\net7.0\GENOM.csproj.AssemblyReference.cache
+F:\Projects\C++\GENOM\GENOM\obj\Debug\net7.0\GENOM.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\C++\GENOM\GENOM\obj\Debug\net7.0\GENOM.AssemblyInfoInputs.cache
+F:\Projects\C++\GENOM\GENOM\obj\Debug\net7.0\GENOM.AssemblyInfo.cs
+F:\Projects\C++\GENOM\GENOM\obj\Debug\net7.0\GENOM.csproj.CoreCompileInputs.cache
+F:\Projects\C++\GENOM\GENOM\obj\Debug\net7.0\GENOM.dll
+F:\Projects\C++\GENOM\GENOM\obj\Debug\net7.0\refint\GENOM.dll
+F:\Projects\C++\GENOM\GENOM\obj\Debug\net7.0\GENOM.pdb
+F:\Projects\C++\GENOM\GENOM\obj\Debug\net7.0\GENOM.genruntimeconfig.cache
+F:\Projects\C++\GENOM\GENOM\obj\Debug\net7.0\ref\GENOM.dll
